@@ -1,2 +1,0 @@
-This is a test file to verify write permissions.
-It can be safely deleted.
