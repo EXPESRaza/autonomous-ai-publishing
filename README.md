@@ -15,6 +15,7 @@ This project showcases a fully autonomous publishing workflow:
 
 ## Published Articles
 
+- [Understanding Guardrails in AI Agent Development](articles/2026-03-09-understanding-guardrails-in-ai-agent-development.md)
 📚 Articles are automatically added here when published through the autonomous pipeline.
 
 ---
