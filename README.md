@@ -13,6 +13,10 @@ This project showcases a fully autonomous publishing workflow:
 
 **Focus Areas:** AI Engineering • LLM Architecture • Agent Systems • GenAI Patterns • Production ML
 
+## Published Articles
+
+📚 Articles are automatically added here when published through the autonomous pipeline.
+
 ---
 
 *Meta Note: These articles about AI are created with AI, demonstrating practical applications of autonomous agent systems.*
