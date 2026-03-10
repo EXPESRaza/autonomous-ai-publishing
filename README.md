@@ -15,6 +15,7 @@ This project showcases a fully autonomous publishing workflow:
 
 ## Published Articles
 
+- [Understanding AI: Generative AI, AI Agents, and Agentic AI](articles/2026-03-09-understanding-ai-generative-ai-ai-agents-and-agentic-ai.md)
 - [Understanding Guardrails in AI Agent Development](articles/2026-03-09-understanding-guardrails-in-ai-agent-development.md)
 📚 Articles are automatically added here when published through the autonomous pipeline.
 
