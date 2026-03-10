@@ -13,6 +13,12 @@ This project showcases a fully autonomous publishing workflow:
 
 **Focus Areas:** AI Engineering • LLM Architecture • Agent Systems • GenAI Patterns • Production ML
 
+## Demo
+
+See the agentic application in action:
+
+https://github.com/user-attachments/assets/5c6552e5-cb14-40a4-a93a-c99e69bd6c25
+
 ## Published Articles
 
 - [Understanding AI: Generative AI, AI Agents, and Agentic AI](articles/2026-03-09-understanding-ai-generative-ai-ai-agents-and-agentic-ai.md)
